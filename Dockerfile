@@ -1,6 +1,5 @@
-#FROM ubuntu:jammy
 FROM debian:latest
-MAINTAINER Marcolino <marco.pozzuolo@gmail.com>
+MAINTAINER Marcolino <marcolino7@infinito.it>
 
 #Create Temp Directory
 WORKDIR /temp
