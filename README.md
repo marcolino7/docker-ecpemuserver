@@ -36,3 +36,9 @@ docker run -d \
 	-v /your/path/to/EcpEmuServer/rules.xml:/var/EcpEmuServer/rules.xml \
 	docker-ecpemuserver:latest
 ```
+
+### Logs
+Container Logs are available with this command:
+```
+docker logs EcpEmuServer
+```
